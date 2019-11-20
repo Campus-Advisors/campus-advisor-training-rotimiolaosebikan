@@ -35,4 +35,4 @@ In this module you will be introduced to GitHub. This module will cover:
 
 [:tv: Module 2.4 Video](https://youtu.be/c1210JclnPw)
 
-:notebook: Complete Module 2.4 Assignment
+:notebook: Complete Module 2.4 Assignment.
